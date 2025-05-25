@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkOut App</string>
+    <string name="intro_description">We are committed to providing a safe and supportive
+    environment for all users. Please be respectful of others and refrain from using
+    offensive language or posting harmful content.</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="start_workout">Start Workout</string>
+</resources>
